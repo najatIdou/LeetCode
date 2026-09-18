@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Database
 |  |
 | ------- |
+| [0596-classes-with-at-least-5-students](https://github.com/najatIdou/LeetCode/tree/master/0596-classes-with-at-least-5-students) |
 | [0619-biggest-single-number](https://github.com/najatIdou/LeetCode/tree/master/0619-biggest-single-number) |
 | [1045-customers-who-bought-all-products](https://github.com/najatIdou/LeetCode/tree/master/1045-customers-who-bought-all-products) |
 | [1729-find-followers-count](https://github.com/najatIdou/LeetCode/tree/master/1729-find-followers-count) |
