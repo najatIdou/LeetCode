@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1070-product-sales-analysis-iii](https://github.com/najatIdou/LeetCode/tree/master/1070-product-sales-analysis-iii) |
 | [1075-project-employees-i](https://github.com/najatIdou/LeetCode/tree/master/1075-project-employees-i) |
 | [1141-user-activity-for-the-past-30-days-i](https://github.com/najatIdou/LeetCode/tree/master/1141-user-activity-for-the-past-30-days-i) |
+| [1581-customer-who-visited-but-did-not-make-any-transactions](https://github.com/najatIdou/LeetCode/tree/master/1581-customer-who-visited-but-did-not-make-any-transactions) |
 | [1633-percentage-of-users-attended-a-contest](https://github.com/najatIdou/LeetCode/tree/master/1633-percentage-of-users-attended-a-contest) |
 | [1729-find-followers-count](https://github.com/najatIdou/LeetCode/tree/master/1729-find-followers-count) |
 | [2356-number-of-unique-subjects-taught-by-each-teacher](https://github.com/najatIdou/LeetCode/tree/master/2356-number-of-unique-subjects-taught-by-each-teacher) |
