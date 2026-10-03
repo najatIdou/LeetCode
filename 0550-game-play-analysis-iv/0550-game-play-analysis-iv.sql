@@ -1,0 +1,2 @@
+# Write your MySQL query statement below
+SELECT ROUND(count(DISTINCT a1.player_id)/(SELECT COUNT(DISTINCT player_id) FROM Activity),2) as fraction FROM   Activity a1 WHERE a1.player_id IN(SELECT a1.player_id FROM Activity a1 WHERE DATEDIFF(a1.event_date,(SELECT min(a2.event_date) FROM Activity a2 WHERE a1.player_id=a2.player_id))=1);
