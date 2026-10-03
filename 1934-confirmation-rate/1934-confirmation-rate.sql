@@ -1,0 +1,2 @@
+# Write your MySQL query statement below
+SELECT s.user_id, COALESCE(ROUND(count(CASE WHEN action='confirmed' THEN 1 END)/count(action),2),0) as confirmation_rate FROM Signups s LEFT JOIN Confirmations c ON s.user_id=c.user_id GROUP BY s.user_id;
