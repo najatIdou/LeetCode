@@ -1,0 +1,3 @@
+# Write your MySQL query statement below
+
+SELECT product_id, CASE WHEN change_date >= '2019-08-17' THEN 10 ELSE new_price END AS price FROM Products where (product_id,change_date)IN (SELECT p1.product_id, CASE WHEN ( SELECT MAX(p2.change_date) FROM Products p2 WHERE p2.product_id = p1.product_id AND p2.change_date < '2019-08-17') IS NOT NULL THEN (SELECT MAX(p2.change_date) FROM Products p2 WHERE p2.product_id = p1.product_id AND p2.change_date < '2019-08-17') ELSE (SELECT MAX(p2.change_date) FROM Products p2 WHERE p2.product_id = p1.product_id) END AS change_date FROM Products p1 GROUP BY p1.product_id);
