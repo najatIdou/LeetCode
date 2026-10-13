@@ -54,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/najatIdou/LeetCode/tree/master/0001-two-sum) |
 | [0202-happy-number](https://github.com/najatIdou/LeetCode/tree/master/0202-happy-number) |
 ## Math
 |  |
@@ -67,4 +68,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0202-happy-number](https://github.com/najatIdou/LeetCode/tree/master/0202-happy-number) |
+## Array
+|  |
+| ------- |
+| [0001-two-sum](https://github.com/najatIdou/LeetCode/tree/master/0001-two-sum) |
 <!---LeetCode Topics End-->
