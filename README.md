@@ -68,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0026-remove-duplicates-from-sorted-array](https://github.com/najatIdou/LeetCode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/najatIdou/LeetCode/tree/master/0027-remove-element) |
 | [0075-sort-colors](https://github.com/najatIdou/LeetCode/tree/master/0075-sort-colors) |
+| [0088-merge-sorted-array](https://github.com/najatIdou/LeetCode/tree/master/0088-merge-sorted-array) |
 | [0202-happy-number](https://github.com/najatIdou/LeetCode/tree/master/0202-happy-number) |
 ## Floyd's Cycle Finding Algorithm
 |  |
@@ -83,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0033-search-in-rotated-sorted-array](https://github.com/najatIdou/LeetCode/tree/master/0033-search-in-rotated-sorted-array) |
 | [0075-sort-colors](https://github.com/najatIdou/LeetCode/tree/master/0075-sort-colors) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/najatIdou/LeetCode/tree/master/0081-search-in-rotated-sorted-array-ii) |
+| [0088-merge-sorted-array](https://github.com/najatIdou/LeetCode/tree/master/0088-merge-sorted-array) |
 ## Binary Search
 |  |
 | ------- |
@@ -110,6 +112,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/najatIdou/LeetCode/tree/master/0075-sort-colors) |
+| [0088-merge-sorted-array](https://github.com/najatIdou/LeetCode/tree/master/0088-merge-sorted-array) |
 ## Quicksort
 |  |
 | ------- |
