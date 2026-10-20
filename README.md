@@ -61,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0007-reverse-integer](https://github.com/najatIdou/LeetCode/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/najatIdou/LeetCode/tree/master/0009-palindrome-number) |
+| [0066-plus-one](https://github.com/najatIdou/LeetCode/tree/master/0066-plus-one) |
 | [0202-happy-number](https://github.com/najatIdou/LeetCode/tree/master/0202-happy-number) |
 ## Two Pointers
 |  |
@@ -83,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0027-remove-element](https://github.com/najatIdou/LeetCode/tree/master/0027-remove-element) |
 | [0033-search-in-rotated-sorted-array](https://github.com/najatIdou/LeetCode/tree/master/0033-search-in-rotated-sorted-array) |
 | [0035-search-insert-position](https://github.com/najatIdou/LeetCode/tree/master/0035-search-insert-position) |
+| [0066-plus-one](https://github.com/najatIdou/LeetCode/tree/master/0066-plus-one) |
 | [0075-sort-colors](https://github.com/najatIdou/LeetCode/tree/master/0075-sort-colors) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/najatIdou/LeetCode/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0088-merge-sorted-array](https://github.com/najatIdou/LeetCode/tree/master/0088-merge-sorted-array) |
