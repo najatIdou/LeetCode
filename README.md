@@ -68,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0202-happy-number](https://github.com/najatIdou/LeetCode/tree/master/0202-happy-number) |
 | [0258-add-digits](https://github.com/najatIdou/LeetCode/tree/master/0258-add-digits) |
 | [0268-missing-number](https://github.com/najatIdou/LeetCode/tree/master/0268-missing-number) |
+| [0507-perfect-number](https://github.com/najatIdou/LeetCode/tree/master/0507-perfect-number) |
 ## Two Pointers
 |  |
 | ------- |
