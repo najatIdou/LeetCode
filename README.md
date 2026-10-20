@@ -57,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/najatIdou/LeetCode/tree/master/0001-two-sum) |
 | [0202-happy-number](https://github.com/najatIdou/LeetCode/tree/master/0202-happy-number) |
 | [0242-valid-anagram](https://github.com/najatIdou/LeetCode/tree/master/0242-valid-anagram) |
+| [0268-missing-number](https://github.com/najatIdou/LeetCode/tree/master/0268-missing-number) |
 ## Math
 |  |
 | ------- |
@@ -65,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0066-plus-one](https://github.com/najatIdou/LeetCode/tree/master/0066-plus-one) |
 | [0202-happy-number](https://github.com/najatIdou/LeetCode/tree/master/0202-happy-number) |
 | [0258-add-digits](https://github.com/najatIdou/LeetCode/tree/master/0258-add-digits) |
+| [0268-missing-number](https://github.com/najatIdou/LeetCode/tree/master/0268-missing-number) |
 ## Two Pointers
 |  |
 | ------- |
@@ -91,6 +93,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/najatIdou/LeetCode/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0088-merge-sorted-array](https://github.com/najatIdou/LeetCode/tree/master/0088-merge-sorted-array) |
 | [0136-single-number](https://github.com/najatIdou/LeetCode/tree/master/0136-single-number) |
+| [0268-missing-number](https://github.com/najatIdou/LeetCode/tree/master/0268-missing-number) |
 ## Binary Search
 |  |
 | ------- |
@@ -98,6 +101,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0033-search-in-rotated-sorted-array](https://github.com/najatIdou/LeetCode/tree/master/0033-search-in-rotated-sorted-array) |
 | [0035-search-insert-position](https://github.com/najatIdou/LeetCode/tree/master/0035-search-insert-position) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/najatIdou/LeetCode/tree/master/0081-search-in-rotated-sorted-array-ii) |
+| [0268-missing-number](https://github.com/najatIdou/LeetCode/tree/master/0268-missing-number) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -122,6 +126,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/najatIdou/LeetCode/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/najatIdou/LeetCode/tree/master/0088-merge-sorted-array) |
 | [0242-valid-anagram](https://github.com/najatIdou/LeetCode/tree/master/0242-valid-anagram) |
+| [0268-missing-number](https://github.com/najatIdou/LeetCode/tree/master/0268-missing-number) |
 ## Quicksort
 |  |
 | ------- |
@@ -134,6 +139,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0136-single-number](https://github.com/najatIdou/LeetCode/tree/master/0136-single-number) |
+| [0268-missing-number](https://github.com/najatIdou/LeetCode/tree/master/0268-missing-number) |
 ## Simulation
 |  |
 | ------- |
