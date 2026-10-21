@@ -127,6 +127,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0058-length-of-last-word](https://github.com/najatIdou/LeetCode/tree/master/0058-length-of-last-word) |
 | [0242-valid-anagram](https://github.com/najatIdou/LeetCode/tree/master/0242-valid-anagram) |
 | [0387-first-unique-character-in-a-string](https://github.com/najatIdou/LeetCode/tree/master/0387-first-unique-character-in-a-string) |
+| [1374-generate-a-string-with-characters-that-have-odd-counts](https://github.com/najatIdou/LeetCode/tree/master/1374-generate-a-string-with-characters-that-have-odd-counts) |
 ## Stack
 |  |
 | ------- |
