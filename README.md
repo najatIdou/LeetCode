@@ -67,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/najatIdou/LeetCode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1394-find-lucky-integer-in-an-array](https://github.com/najatIdou/LeetCode/tree/master/1394-find-lucky-integer-in-an-array) |
 | [1624-largest-substring-between-two-equal-characters](https://github.com/najatIdou/LeetCode/tree/master/1624-largest-substring-between-two-equal-characters) |
+| [1636-sort-array-by-increasing-frequency](https://github.com/najatIdou/LeetCode/tree/master/1636-sort-array-by-increasing-frequency) |
 ## Math
 |  |
 | ------- |
@@ -115,6 +116,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1394-find-lucky-integer-in-an-array](https://github.com/najatIdou/LeetCode/tree/master/1394-find-lucky-integer-in-an-array) |
 | [1608-special-array-with-x-elements-greater-than-or-equal-x](https://github.com/najatIdou/LeetCode/tree/master/1608-special-array-with-x-elements-greater-than-or-equal-x) |
 | [1629-slowest-key](https://github.com/najatIdou/LeetCode/tree/master/1629-slowest-key) |
+| [1636-sort-array-by-increasing-frequency](https://github.com/najatIdou/LeetCode/tree/master/1636-sort-array-by-increasing-frequency) |
 ## Binary Search
 |  |
 | ------- |
@@ -160,6 +162,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1346-check-if-n-and-its-double-exist](https://github.com/najatIdou/LeetCode/tree/master/1346-check-if-n-and-its-double-exist) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/najatIdou/LeetCode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1608-special-array-with-x-elements-greater-than-or-equal-x](https://github.com/najatIdou/LeetCode/tree/master/1608-special-array-with-x-elements-greater-than-or-equal-x) |
+| [1636-sort-array-by-increasing-frequency](https://github.com/najatIdou/LeetCode/tree/master/1636-sort-array-by-increasing-frequency) |
 ## Quicksort
 |  |
 | ------- |
