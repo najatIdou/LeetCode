@@ -118,6 +118,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1629-slowest-key](https://github.com/najatIdou/LeetCode/tree/master/1629-slowest-key) |
 | [1636-sort-array-by-increasing-frequency](https://github.com/najatIdou/LeetCode/tree/master/1636-sort-array-by-increasing-frequency) |
 | [1637-widest-vertical-area-between-two-points-containing-no-points](https://github.com/najatIdou/LeetCode/tree/master/1637-widest-vertical-area-between-two-points-containing-no-points) |
+| [1646-get-maximum-in-generated-array](https://github.com/najatIdou/LeetCode/tree/master/1646-get-maximum-in-generated-array) |
 ## Binary Search
 |  |
 | ------- |
@@ -183,6 +184,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0258-add-digits](https://github.com/najatIdou/LeetCode/tree/master/0258-add-digits) |
+| [1646-get-maximum-in-generated-array](https://github.com/najatIdou/LeetCode/tree/master/1646-get-maximum-in-generated-array) |
 ## Number Theory
 |  |
 | ------- |
