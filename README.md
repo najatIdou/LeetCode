@@ -117,6 +117,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1608-special-array-with-x-elements-greater-than-or-equal-x](https://github.com/najatIdou/LeetCode/tree/master/1608-special-array-with-x-elements-greater-than-or-equal-x) |
 | [1629-slowest-key](https://github.com/najatIdou/LeetCode/tree/master/1629-slowest-key) |
 | [1636-sort-array-by-increasing-frequency](https://github.com/najatIdou/LeetCode/tree/master/1636-sort-array-by-increasing-frequency) |
+| [1637-widest-vertical-area-between-two-points-containing-no-points](https://github.com/najatIdou/LeetCode/tree/master/1637-widest-vertical-area-between-two-points-containing-no-points) |
 ## Binary Search
 |  |
 | ------- |
@@ -163,6 +164,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/najatIdou/LeetCode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1608-special-array-with-x-elements-greater-than-or-equal-x](https://github.com/najatIdou/LeetCode/tree/master/1608-special-array-with-x-elements-greater-than-or-equal-x) |
 | [1636-sort-array-by-increasing-frequency](https://github.com/najatIdou/LeetCode/tree/master/1636-sort-array-by-increasing-frequency) |
+| [1637-widest-vertical-area-between-two-points-containing-no-points](https://github.com/najatIdou/LeetCode/tree/master/1637-widest-vertical-area-between-two-points-containing-no-points) |
 ## Quicksort
 |  |
 | ------- |
