@@ -11,7 +11,7 @@ class Solution {
         int i=0;
         int n=s.length();
         while(n-i > 4){
-            number+= s.substring(i,i+3) + "-";
+            number+= s.substring(i,i+3)+"-";
             i+=3;
         }
         if(n-i == 4){
