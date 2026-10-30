@@ -147,6 +147,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1374-generate-a-string-with-characters-that-have-odd-counts](https://github.com/najatIdou/LeetCode/tree/master/1374-generate-a-string-with-characters-that-have-odd-counts) |
 | [1624-largest-substring-between-two-equal-characters](https://github.com/najatIdou/LeetCode/tree/master/1624-largest-substring-between-two-equal-characters) |
 | [1629-slowest-key](https://github.com/najatIdou/LeetCode/tree/master/1629-slowest-key) |
+| [1678-goal-parser-interpretation](https://github.com/najatIdou/LeetCode/tree/master/1678-goal-parser-interpretation) |
 ## Stack
 |  |
 | ------- |
