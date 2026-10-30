@@ -68,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1394-find-lucky-integer-in-an-array](https://github.com/najatIdou/LeetCode/tree/master/1394-find-lucky-integer-in-an-array) |
 | [1624-largest-substring-between-two-equal-characters](https://github.com/najatIdou/LeetCode/tree/master/1624-largest-substring-between-two-equal-characters) |
 | [1636-sort-array-by-increasing-frequency](https://github.com/najatIdou/LeetCode/tree/master/1636-sort-array-by-increasing-frequency) |
+| [1684-count-the-number-of-consistent-strings](https://github.com/najatIdou/LeetCode/tree/master/1684-count-the-number-of-consistent-strings) |
 ## Math
 |  |
 | ------- |
@@ -121,6 +122,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1646-get-maximum-in-generated-array](https://github.com/najatIdou/LeetCode/tree/master/1646-get-maximum-in-generated-array) |
 | [1652-defuse-the-bomb](https://github.com/najatIdou/LeetCode/tree/master/1652-defuse-the-bomb) |
 | [1672-richest-customer-wealth](https://github.com/najatIdou/LeetCode/tree/master/1672-richest-customer-wealth) |
+| [1684-count-the-number-of-consistent-strings](https://github.com/najatIdou/LeetCode/tree/master/1684-count-the-number-of-consistent-strings) |
 ## Binary Search
 |  |
 | ------- |
@@ -148,6 +150,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1624-largest-substring-between-two-equal-characters](https://github.com/najatIdou/LeetCode/tree/master/1624-largest-substring-between-two-equal-characters) |
 | [1629-slowest-key](https://github.com/najatIdou/LeetCode/tree/master/1629-slowest-key) |
 | [1678-goal-parser-interpretation](https://github.com/najatIdou/LeetCode/tree/master/1678-goal-parser-interpretation) |
+| [1684-count-the-number-of-consistent-strings](https://github.com/najatIdou/LeetCode/tree/master/1684-count-the-number-of-consistent-strings) |
 ## Stack
 |  |
 | ------- |
@@ -183,6 +186,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0136-single-number](https://github.com/najatIdou/LeetCode/tree/master/0136-single-number) |
 | [0268-missing-number](https://github.com/najatIdou/LeetCode/tree/master/0268-missing-number) |
 | [0645-set-mismatch](https://github.com/najatIdou/LeetCode/tree/master/0645-set-mismatch) |
+| [1684-count-the-number-of-consistent-strings](https://github.com/najatIdou/LeetCode/tree/master/1684-count-the-number-of-consistent-strings) |
 ## Simulation
 |  |
 | ------- |
@@ -201,6 +205,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0387-first-unique-character-in-a-string](https://github.com/najatIdou/LeetCode/tree/master/0387-first-unique-character-in-a-string) |
 | [1394-find-lucky-integer-in-an-array](https://github.com/najatIdou/LeetCode/tree/master/1394-find-lucky-integer-in-an-array) |
+| [1684-count-the-number-of-consistent-strings](https://github.com/najatIdou/LeetCode/tree/master/1684-count-the-number-of-consistent-strings) |
 ## Dynamic Programming
 |  |
 | ------- |
