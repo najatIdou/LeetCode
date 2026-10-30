@@ -120,6 +120,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1637-widest-vertical-area-between-two-points-containing-no-points](https://github.com/najatIdou/LeetCode/tree/master/1637-widest-vertical-area-between-two-points-containing-no-points) |
 | [1646-get-maximum-in-generated-array](https://github.com/najatIdou/LeetCode/tree/master/1646-get-maximum-in-generated-array) |
 | [1652-defuse-the-bomb](https://github.com/najatIdou/LeetCode/tree/master/1652-defuse-the-bomb) |
+| [1672-richest-customer-wealth](https://github.com/najatIdou/LeetCode/tree/master/1672-richest-customer-wealth) |
 ## Binary Search
 |  |
 | ------- |
@@ -215,6 +216,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/najatIdou/LeetCode/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
+| [1672-richest-customer-wealth](https://github.com/najatIdou/LeetCode/tree/master/1672-richest-customer-wealth) |
 ## Counting Sort
 |  |
 | ------- |
