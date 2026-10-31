@@ -123,6 +123,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1652-defuse-the-bomb](https://github.com/najatIdou/LeetCode/tree/master/1652-defuse-the-bomb) |
 | [1672-richest-customer-wealth](https://github.com/najatIdou/LeetCode/tree/master/1672-richest-customer-wealth) |
 | [1684-count-the-number-of-consistent-strings](https://github.com/najatIdou/LeetCode/tree/master/1684-count-the-number-of-consistent-strings) |
+| [1732-find-the-highest-altitude](https://github.com/najatIdou/LeetCode/tree/master/1732-find-the-highest-altitude) |
 ## Binary Search
 |  |
 | ------- |
@@ -234,6 +235,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0560-subarray-sum-equals-k](https://github.com/najatIdou/LeetCode/tree/master/0560-subarray-sum-equals-k) |
+| [1732-find-the-highest-altitude](https://github.com/najatIdou/LeetCode/tree/master/1732-find-the-highest-altitude) |
 ## Sliding Window
 |  |
 | ------- |
