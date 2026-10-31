@@ -152,6 +152,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1678-goal-parser-interpretation](https://github.com/najatIdou/LeetCode/tree/master/1678-goal-parser-interpretation) |
 | [1684-count-the-number-of-consistent-strings](https://github.com/najatIdou/LeetCode/tree/master/1684-count-the-number-of-consistent-strings) |
 | [1694-reformat-phone-number](https://github.com/najatIdou/LeetCode/tree/master/1694-reformat-phone-number) |
+| [1704-determine-if-string-halves-are-alike](https://github.com/najatIdou/LeetCode/tree/master/1704-determine-if-string-halves-are-alike) |
 ## Stack
 |  |
 | ------- |
@@ -207,6 +208,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0387-first-unique-character-in-a-string](https://github.com/najatIdou/LeetCode/tree/master/0387-first-unique-character-in-a-string) |
 | [1394-find-lucky-integer-in-an-array](https://github.com/najatIdou/LeetCode/tree/master/1394-find-lucky-integer-in-an-array) |
 | [1684-count-the-number-of-consistent-strings](https://github.com/najatIdou/LeetCode/tree/master/1684-count-the-number-of-consistent-strings) |
+| [1704-determine-if-string-halves-are-alike](https://github.com/najatIdou/LeetCode/tree/master/1704-determine-if-string-halves-are-alike) |
 ## Dynamic Programming
 |  |
 | ------- |
