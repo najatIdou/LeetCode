@@ -70,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1624-largest-substring-between-two-equal-characters](https://github.com/najatIdou/LeetCode/tree/master/1624-largest-substring-between-two-equal-characters) |
 | [1636-sort-array-by-increasing-frequency](https://github.com/najatIdou/LeetCode/tree/master/1636-sort-array-by-increasing-frequency) |
 | [1684-count-the-number-of-consistent-strings](https://github.com/najatIdou/LeetCode/tree/master/1684-count-the-number-of-consistent-strings) |
+| [1742-maximum-number-of-balls-in-a-box](https://github.com/najatIdou/LeetCode/tree/master/1742-maximum-number-of-balls-in-a-box) |
 ## Math
 |  |
 | ------- |
@@ -81,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/najatIdou/LeetCode/tree/master/0268-missing-number) |
 | [0507-perfect-number](https://github.com/najatIdou/LeetCode/tree/master/0507-perfect-number) |
 | [0509-fibonacci-number](https://github.com/najatIdou/LeetCode/tree/master/0509-fibonacci-number) |
+| [1742-maximum-number-of-balls-in-a-box](https://github.com/najatIdou/LeetCode/tree/master/1742-maximum-number-of-balls-in-a-box) |
 ## Two Pointers
 |  |
 | ------- |
@@ -212,6 +214,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1394-find-lucky-integer-in-an-array](https://github.com/najatIdou/LeetCode/tree/master/1394-find-lucky-integer-in-an-array) |
 | [1684-count-the-number-of-consistent-strings](https://github.com/najatIdou/LeetCode/tree/master/1684-count-the-number-of-consistent-strings) |
 | [1704-determine-if-string-halves-are-alike](https://github.com/najatIdou/LeetCode/tree/master/1704-determine-if-string-halves-are-alike) |
+| [1742-maximum-number-of-balls-in-a-box](https://github.com/najatIdou/LeetCode/tree/master/1742-maximum-number-of-balls-in-a-box) |
 ## Dynamic Programming
 |  |
 | ------- |
