@@ -71,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1636-sort-array-by-increasing-frequency](https://github.com/najatIdou/LeetCode/tree/master/1636-sort-array-by-increasing-frequency) |
 | [1684-count-the-number-of-consistent-strings](https://github.com/najatIdou/LeetCode/tree/master/1684-count-the-number-of-consistent-strings) |
 | [1742-maximum-number-of-balls-in-a-box](https://github.com/najatIdou/LeetCode/tree/master/1742-maximum-number-of-balls-in-a-box) |
+| [1748-sum-of-unique-elements](https://github.com/najatIdou/LeetCode/tree/master/1748-sum-of-unique-elements) |
 ## Math
 |  |
 | ------- |
@@ -127,6 +128,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1672-richest-customer-wealth](https://github.com/najatIdou/LeetCode/tree/master/1672-richest-customer-wealth) |
 | [1684-count-the-number-of-consistent-strings](https://github.com/najatIdou/LeetCode/tree/master/1684-count-the-number-of-consistent-strings) |
 | [1732-find-the-highest-altitude](https://github.com/najatIdou/LeetCode/tree/master/1732-find-the-highest-altitude) |
+| [1748-sum-of-unique-elements](https://github.com/najatIdou/LeetCode/tree/master/1748-sum-of-unique-elements) |
 ## Binary Search
 |  |
 | ------- |
@@ -215,6 +217,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1684-count-the-number-of-consistent-strings](https://github.com/najatIdou/LeetCode/tree/master/1684-count-the-number-of-consistent-strings) |
 | [1704-determine-if-string-halves-are-alike](https://github.com/najatIdou/LeetCode/tree/master/1704-determine-if-string-halves-are-alike) |
 | [1742-maximum-number-of-balls-in-a-box](https://github.com/najatIdou/LeetCode/tree/master/1742-maximum-number-of-balls-in-a-box) |
+| [1748-sum-of-unique-elements](https://github.com/najatIdou/LeetCode/tree/master/1748-sum-of-unique-elements) |
 ## Dynamic Programming
 |  |
 | ------- |
