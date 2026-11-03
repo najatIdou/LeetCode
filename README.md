@@ -162,6 +162,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1704-determine-if-string-halves-are-alike](https://github.com/najatIdou/LeetCode/tree/master/1704-determine-if-string-halves-are-alike) |
 | [1736-latest-time-by-replacing-hidden-digits](https://github.com/najatIdou/LeetCode/tree/master/1736-latest-time-by-replacing-hidden-digits) |
 | [1768-merge-strings-alternately](https://github.com/najatIdou/LeetCode/tree/master/1768-merge-strings-alternately) |
+| [1784-check-if-binary-string-has-at-most-one-segment-of-ones](https://github.com/najatIdou/LeetCode/tree/master/1784-check-if-binary-string-has-at-most-one-segment-of-ones) |
 ## Stack
 |  |
 | ------- |
