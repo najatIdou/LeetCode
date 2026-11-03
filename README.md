@@ -258,4 +258,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1736-latest-time-by-replacing-hidden-digits](https://github.com/najatIdou/LeetCode/tree/master/1736-latest-time-by-replacing-hidden-digits) |
+## Graph Theory
+|  |
+| ------- |
+| [1791-find-center-of-star-graph](https://github.com/najatIdou/LeetCode/tree/master/1791-find-center-of-star-graph) |
 <!---LeetCode Topics End-->
