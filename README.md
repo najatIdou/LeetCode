@@ -139,6 +139,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1800-maximum-ascending-subarray-sum](https://github.com/najatIdou/LeetCode/tree/master/1800-maximum-ascending-subarray-sum) |
 | [1816-truncate-sentence](https://github.com/najatIdou/LeetCode/tree/master/1816-truncate-sentence) |
 | [1822-sign-of-the-product-of-an-array](https://github.com/najatIdou/LeetCode/tree/master/1822-sign-of-the-product-of-an-array) |
+| [1827-minimum-operations-to-make-the-array-increasing](https://github.com/najatIdou/LeetCode/tree/master/1827-minimum-operations-to-make-the-array-increasing) |
 ## Binary Search
 |  |
 | ------- |
@@ -270,6 +271,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1736-latest-time-by-replacing-hidden-digits](https://github.com/najatIdou/LeetCode/tree/master/1736-latest-time-by-replacing-hidden-digits) |
+| [1827-minimum-operations-to-make-the-array-increasing](https://github.com/najatIdou/LeetCode/tree/master/1827-minimum-operations-to-make-the-array-increasing) |
 ## Graph Theory
 |  |
 | ------- |
