@@ -188,6 +188,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1859-sorting-the-sentence](https://github.com/najatIdou/LeetCode/tree/master/1859-sorting-the-sentence) |
 | [1869-longer-contiguous-segments-of-ones-than-zeros](https://github.com/najatIdou/LeetCode/tree/master/1869-longer-contiguous-segments-of-ones-than-zeros) |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/najatIdou/LeetCode/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
+| [1880-check-if-word-equals-summation-of-two-words](https://github.com/najatIdou/LeetCode/tree/master/1880-check-if-word-equals-summation-of-two-words) |
 ## Stack
 |  |
 | ------- |
