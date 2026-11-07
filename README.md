@@ -147,6 +147,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1822-sign-of-the-product-of-an-array](https://github.com/najatIdou/LeetCode/tree/master/1822-sign-of-the-product-of-an-array) |
 | [1827-minimum-operations-to-make-the-array-increasing](https://github.com/najatIdou/LeetCode/tree/master/1827-minimum-operations-to-make-the-array-increasing) |
 | [1848-minimum-distance-to-the-target-element](https://github.com/najatIdou/LeetCode/tree/master/1848-minimum-distance-to-the-target-element) |
+| [1920-build-array-from-permutation](https://github.com/najatIdou/LeetCode/tree/master/1920-build-array-from-permutation) |
 ## Binary Search
 |  |
 | ------- |
@@ -235,6 +236,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0258-add-digits](https://github.com/najatIdou/LeetCode/tree/master/0258-add-digits) |
 | [1646-get-maximum-in-generated-array](https://github.com/najatIdou/LeetCode/tree/master/1646-get-maximum-in-generated-array) |
+| [1920-build-array-from-permutation](https://github.com/najatIdou/LeetCode/tree/master/1920-build-array-from-permutation) |
 ## Number Theory
 |  |
 | ------- |
