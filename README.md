@@ -97,6 +97,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1822-sign-of-the-product-of-an-array](https://github.com/najatIdou/LeetCode/tree/master/1822-sign-of-the-product-of-an-array) |
 | [1837-sum-of-digits-in-base-k](https://github.com/najatIdou/LeetCode/tree/master/1837-sum-of-digits-in-base-k) |
 | [1903-largest-odd-number-in-string](https://github.com/najatIdou/LeetCode/tree/master/1903-largest-odd-number-in-string) |
+| [1952-three-divisors](https://github.com/najatIdou/LeetCode/tree/master/1952-three-divisors) |
 ## Two Pointers
 |  |
 | ------- |
@@ -247,6 +248,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0258-add-digits](https://github.com/najatIdou/LeetCode/tree/master/0258-add-digits) |
+| [1952-three-divisors](https://github.com/najatIdou/LeetCode/tree/master/1952-three-divisors) |
 ## Queue
 |  |
 | ------- |
@@ -304,4 +306,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1791-find-center-of-star-graph](https://github.com/najatIdou/LeetCode/tree/master/1791-find-center-of-star-graph) |
+## Enumeration
+|  |
+| ------- |
+| [1952-three-divisors](https://github.com/najatIdou/LeetCode/tree/master/1952-three-divisors) |
+## Prime Factorization
+|  |
+| ------- |
+| [1952-three-divisors](https://github.com/najatIdou/LeetCode/tree/master/1952-three-divisors) |
+## Sieve Theory
+|  |
+| ------- |
+| [1952-three-divisors](https://github.com/najatIdou/LeetCode/tree/master/1952-three-divisors) |
 <!---LeetCode Topics End-->
