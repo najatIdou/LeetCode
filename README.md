@@ -62,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/najatIdou/LeetCode/tree/master/0001-two-sum) |
+| [0003-longest-substring-without-repeating-characters](https://github.com/najatIdou/LeetCode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0202-happy-number](https://github.com/najatIdou/LeetCode/tree/master/0202-happy-number) |
 | [0242-valid-anagram](https://github.com/najatIdou/LeetCode/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/najatIdou/LeetCode/tree/master/0268-missing-number) |
@@ -178,6 +179,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/najatIdou/LeetCode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0020-valid-parentheses](https://github.com/najatIdou/LeetCode/tree/master/0020-valid-parentheses) |
 | [0058-length-of-last-word](https://github.com/najatIdou/LeetCode/tree/master/0058-length-of-last-word) |
 | [0242-valid-anagram](https://github.com/najatIdou/LeetCode/tree/master/0242-valid-anagram) |
@@ -308,6 +310,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sliding Window
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/najatIdou/LeetCode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [1652-defuse-the-bomb](https://github.com/najatIdou/LeetCode/tree/master/1652-defuse-the-bomb) |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/najatIdou/LeetCode/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
 ## Greedy
