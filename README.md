@@ -68,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/najatIdou/LeetCode/tree/master/0268-missing-number) |
 | [0383-ransom-note](https://github.com/najatIdou/LeetCode/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/najatIdou/LeetCode/tree/master/0387-first-unique-character-in-a-string) |
+| [0389-find-the-difference](https://github.com/najatIdou/LeetCode/tree/master/0389-find-the-difference) |
 | [0560-subarray-sum-equals-k](https://github.com/najatIdou/LeetCode/tree/master/0560-subarray-sum-equals-k) |
 | [0645-set-mismatch](https://github.com/najatIdou/LeetCode/tree/master/0645-set-mismatch) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/najatIdou/LeetCode/tree/master/1346-check-if-n-and-its-double-exist) |
@@ -193,6 +194,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/najatIdou/LeetCode/tree/master/0242-valid-anagram) |
 | [0383-ransom-note](https://github.com/najatIdou/LeetCode/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/najatIdou/LeetCode/tree/master/0387-first-unique-character-in-a-string) |
+| [0389-find-the-difference](https://github.com/najatIdou/LeetCode/tree/master/0389-find-the-difference) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/najatIdou/LeetCode/tree/master/0557-reverse-words-in-a-string-iii) |
 | [1374-generate-a-string-with-characters-that-have-odd-counts](https://github.com/najatIdou/LeetCode/tree/master/1374-generate-a-string-with-characters-that-have-odd-counts) |
 | [1624-largest-substring-between-two-equal-characters](https://github.com/najatIdou/LeetCode/tree/master/1624-largest-substring-between-two-equal-characters) |
@@ -235,6 +237,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/najatIdou/LeetCode/tree/master/0088-merge-sorted-array) |
 | [0242-valid-anagram](https://github.com/najatIdou/LeetCode/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/najatIdou/LeetCode/tree/master/0268-missing-number) |
+| [0389-find-the-difference](https://github.com/najatIdou/LeetCode/tree/master/0389-find-the-difference) |
 | [0645-set-mismatch](https://github.com/najatIdou/LeetCode/tree/master/0645-set-mismatch) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/najatIdou/LeetCode/tree/master/1346-check-if-n-and-its-double-exist) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/najatIdou/LeetCode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
@@ -256,6 +259,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0136-single-number](https://github.com/najatIdou/LeetCode/tree/master/0136-single-number) |
 | [0268-missing-number](https://github.com/najatIdou/LeetCode/tree/master/0268-missing-number) |
+| [0389-find-the-difference](https://github.com/najatIdou/LeetCode/tree/master/0389-find-the-difference) |
 | [0645-set-mismatch](https://github.com/najatIdou/LeetCode/tree/master/0645-set-mismatch) |
 | [1684-count-the-number-of-consistent-strings](https://github.com/najatIdou/LeetCode/tree/master/1684-count-the-number-of-consistent-strings) |
 | [2032-two-out-of-three](https://github.com/najatIdou/LeetCode/tree/master/2032-two-out-of-three) |
