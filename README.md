@@ -133,6 +133,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0033-search-in-rotated-sorted-array](https://github.com/najatIdou/LeetCode/tree/master/0033-search-in-rotated-sorted-array) |
 | [0035-search-insert-position](https://github.com/najatIdou/LeetCode/tree/master/0035-search-insert-position) |
 | [0055-jump-game](https://github.com/najatIdou/LeetCode/tree/master/0055-jump-game) |
+| [0059-spiral-matrix-ii](https://github.com/najatIdou/LeetCode/tree/master/0059-spiral-matrix-ii) |
 | [0066-plus-one](https://github.com/najatIdou/LeetCode/tree/master/0066-plus-one) |
 | [0075-sort-colors](https://github.com/najatIdou/LeetCode/tree/master/0075-sort-colors) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/najatIdou/LeetCode/tree/master/0081-search-in-rotated-sorted-array-ii) |
@@ -259,6 +260,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0059-spiral-matrix-ii](https://github.com/najatIdou/LeetCode/tree/master/0059-spiral-matrix-ii) |
 | [0258-add-digits](https://github.com/najatIdou/LeetCode/tree/master/0258-add-digits) |
 | [1646-get-maximum-in-generated-array](https://github.com/najatIdou/LeetCode/tree/master/1646-get-maximum-in-generated-array) |
 | [1920-build-array-from-permutation](https://github.com/najatIdou/LeetCode/tree/master/1920-build-array-from-permutation) |
@@ -305,6 +307,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0059-spiral-matrix-ii](https://github.com/najatIdou/LeetCode/tree/master/0059-spiral-matrix-ii) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/najatIdou/LeetCode/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1672-richest-customer-wealth](https://github.com/najatIdou/LeetCode/tree/master/1672-richest-customer-wealth) |
 ## Counting Sort
