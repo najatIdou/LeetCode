@@ -132,6 +132,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0027-remove-element](https://github.com/najatIdou/LeetCode/tree/master/0027-remove-element) |
 | [0033-search-in-rotated-sorted-array](https://github.com/najatIdou/LeetCode/tree/master/0033-search-in-rotated-sorted-array) |
 | [0035-search-insert-position](https://github.com/najatIdou/LeetCode/tree/master/0035-search-insert-position) |
+| [0055-jump-game](https://github.com/najatIdou/LeetCode/tree/master/0055-jump-game) |
 | [0066-plus-one](https://github.com/najatIdou/LeetCode/tree/master/0066-plus-one) |
 | [0075-sort-colors](https://github.com/najatIdou/LeetCode/tree/master/0075-sort-colors) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/najatIdou/LeetCode/tree/master/0081-search-in-rotated-sorted-array-ii) |
@@ -290,6 +291,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0055-jump-game](https://github.com/najatIdou/LeetCode/tree/master/0055-jump-game) |
 | [0509-fibonacci-number](https://github.com/najatIdou/LeetCode/tree/master/0509-fibonacci-number) |
 ## Recursion
 |  |
@@ -324,6 +326,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/najatIdou/LeetCode/tree/master/0011-container-with-most-water) |
+| [0055-jump-game](https://github.com/najatIdou/LeetCode/tree/master/0055-jump-game) |
 | [1736-latest-time-by-replacing-hidden-digits](https://github.com/najatIdou/LeetCode/tree/master/1736-latest-time-by-replacing-hidden-digits) |
 | [1827-minimum-operations-to-make-the-array-increasing](https://github.com/najatIdou/LeetCode/tree/master/1827-minimum-operations-to-make-the-array-increasing) |
 | [1903-largest-odd-number-in-string](https://github.com/najatIdou/LeetCode/tree/master/1903-largest-odd-number-in-string) |
