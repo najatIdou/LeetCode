@@ -97,6 +97,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0202-happy-number](https://github.com/najatIdou/LeetCode/tree/master/0202-happy-number) |
 | [0258-add-digits](https://github.com/najatIdou/LeetCode/tree/master/0258-add-digits) |
 | [0268-missing-number](https://github.com/najatIdou/LeetCode/tree/master/0268-missing-number) |
+| [0405-convert-a-number-to-hexadecimal](https://github.com/najatIdou/LeetCode/tree/master/0405-convert-a-number-to-hexadecimal) |
 | [0507-perfect-number](https://github.com/najatIdou/LeetCode/tree/master/0507-perfect-number) |
 | [0509-fibonacci-number](https://github.com/najatIdou/LeetCode/tree/master/0509-fibonacci-number) |
 | [1742-maximum-number-of-balls-in-a-box](https://github.com/najatIdou/LeetCode/tree/master/1742-maximum-number-of-balls-in-a-box) |
@@ -195,6 +196,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0383-ransom-note](https://github.com/najatIdou/LeetCode/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/najatIdou/LeetCode/tree/master/0387-first-unique-character-in-a-string) |
 | [0389-find-the-difference](https://github.com/najatIdou/LeetCode/tree/master/0389-find-the-difference) |
+| [0405-convert-a-number-to-hexadecimal](https://github.com/najatIdou/LeetCode/tree/master/0405-convert-a-number-to-hexadecimal) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/najatIdou/LeetCode/tree/master/0557-reverse-words-in-a-string-iii) |
 | [1374-generate-a-string-with-characters-that-have-odd-counts](https://github.com/najatIdou/LeetCode/tree/master/1374-generate-a-string-with-characters-that-have-odd-counts) |
 | [1624-largest-substring-between-two-equal-characters](https://github.com/najatIdou/LeetCode/tree/master/1624-largest-substring-between-two-equal-characters) |
@@ -260,6 +262,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0136-single-number](https://github.com/najatIdou/LeetCode/tree/master/0136-single-number) |
 | [0268-missing-number](https://github.com/najatIdou/LeetCode/tree/master/0268-missing-number) |
 | [0389-find-the-difference](https://github.com/najatIdou/LeetCode/tree/master/0389-find-the-difference) |
+| [0405-convert-a-number-to-hexadecimal](https://github.com/najatIdou/LeetCode/tree/master/0405-convert-a-number-to-hexadecimal) |
 | [0645-set-mismatch](https://github.com/najatIdou/LeetCode/tree/master/0645-set-mismatch) |
 | [1684-count-the-number-of-consistent-strings](https://github.com/najatIdou/LeetCode/tree/master/1684-count-the-number-of-consistent-strings) |
 | [2032-two-out-of-three](https://github.com/najatIdou/LeetCode/tree/master/2032-two-out-of-three) |
