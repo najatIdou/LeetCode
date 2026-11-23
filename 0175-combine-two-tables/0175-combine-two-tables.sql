@@ -1,0 +1,2 @@
+# Write your MySQL query statement below
+SELECT p.firstName as firstName, p.lastName as lastName, NULLIF(a.city,'') AS city, NULLIF(a.state,'') AS state FROM Person p LEFT JOIN Address a ON p.personId=a.personId;
