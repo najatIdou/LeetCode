@@ -196,6 +196,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/najatIdou/LeetCode/tree/master/0004-median-of-two-sorted-arrays) |
 | [0169-majority-element](https://github.com/najatIdou/LeetCode/tree/master/0169-majority-element) |
+| [0190-reverse-bits](https://github.com/najatIdou/LeetCode/tree/master/0190-reverse-bits) |
 ## String
 |  |
 | ------- |
@@ -274,6 +275,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0136-single-number](https://github.com/najatIdou/LeetCode/tree/master/0136-single-number) |
+| [0190-reverse-bits](https://github.com/najatIdou/LeetCode/tree/master/0190-reverse-bits) |
 | [0268-missing-number](https://github.com/najatIdou/LeetCode/tree/master/0268-missing-number) |
 | [0389-find-the-difference](https://github.com/najatIdou/LeetCode/tree/master/0389-find-the-difference) |
 | [0405-convert-a-number-to-hexadecimal](https://github.com/najatIdou/LeetCode/tree/master/0405-convert-a-number-to-hexadecimal) |
