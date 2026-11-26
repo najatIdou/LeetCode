@@ -102,6 +102,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0066-plus-one](https://github.com/najatIdou/LeetCode/tree/master/0066-plus-one) |
 | [0202-happy-number](https://github.com/najatIdou/LeetCode/tree/master/0202-happy-number) |
 | [0258-add-digits](https://github.com/najatIdou/LeetCode/tree/master/0258-add-digits) |
+| [0263-ugly-number](https://github.com/najatIdou/LeetCode/tree/master/0263-ugly-number) |
 | [0268-missing-number](https://github.com/najatIdou/LeetCode/tree/master/0268-missing-number) |
 | [0405-convert-a-number-to-hexadecimal](https://github.com/najatIdou/LeetCode/tree/master/0405-convert-a-number-to-hexadecimal) |
 | [0412-fizz-buzz](https://github.com/najatIdou/LeetCode/tree/master/0412-fizz-buzz) |
